@@ -99,7 +99,7 @@
 // 	return this.list;
 // }
 // let users = {
-// 	lenght: 4,
+// 	length: 4,
 // 	list: ['Abraham', 'James', 'John', 'Steven']
 // }
 // getList(); //underfined, ф-ция вызвана глобально, в контексте window, у нго нет list
